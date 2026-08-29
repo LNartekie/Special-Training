@@ -49,5 +49,4 @@ If you plan to use GPU for PyTorch, ensure the appropriate CUDA/cuDNN drivers ar
 **Files**
 - `requirement.txt`: package list used for this workspace.
 
-If you want, I can: create a virtual environment for you, pin package versions, or add a small example notebook to exercise the installed libraries—which should I do next?
 
